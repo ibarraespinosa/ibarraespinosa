@@ -3,7 +3,7 @@
 <!--
 **ibarraespinosa/ibarraespinosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<!--Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on vehicular emissions inventories, mobility, environment and interactions with COVID-19
 - 🌱 I’m currently learning Python and Fortran and always R

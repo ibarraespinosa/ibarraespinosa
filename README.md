@@ -13,5 +13,5 @@
 - 🤔 I’m looking for help with data to estimate vehicular  emissions in different countries
 - 💬 Ask me about [VEIN R package](https://github.com/atmoschem/vein)
 - 📫 How to reach me: sergio.ibarra@usp.br
-- ⚡ Fun fact: I like music, I am currently obsessed with [this](https://www.youtube.com/watch?v=hKo6mXkh-LM)
+- ⚡ Fun fact: I like music, I am currently obsessed with [this](https://www.youtube.com/watch?v=qVRj8-t4PwI)
 

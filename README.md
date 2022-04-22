@@ -12,6 +12,6 @@
 - 👯 I’m looking to collaborate on paper to estimate vehicular emissions in different countries
 - 🤔 I’m looking for help with data to estimate vehicular  emissions in different countries
 - 💬 Ask me about [VEIN R package](https://github.com/atmoschem/vein)
-- 📫 How to reach me: sergio.ibarra@-espinosa@noaa.gov
+- 📫 How to reach me: sergio.ibarra-espinosa@noaa.gov
 - ⚡ Fun fact: Check my [YouTube Channel](https://www.youtube.com/c/SergioIbarraEspinosa)
 

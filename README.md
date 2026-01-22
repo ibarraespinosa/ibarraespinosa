@@ -49,7 +49,7 @@
 
 - 🔭 I’m currently working on vehicular emissions inventories, mobility, environment and interactions with COVID-19
 - 🌱 I’m currently learning python and Fortran
-- 👯 I’m looking to collaborate on paper to lagrangian transport and inverse modeling of GHG and Air pollutants, please check [FLAN](https://wiki.ucar.edu/spaces/MUSICA/pages/418448638/MUSICA+Home) air pollution model (NSF NCAR)
+- 👯 I’m looking to collaborate on paper to lagrangian transport and inverse modeling of GHG and Air pollutants, please check [FLAN](href="https://github.com/atmoschem/flan) Analycal Inversion
 - 🤔 I’m looking for help with data to estimate vehicular  emissions in different countries
 - 💬 Ask me about [VEIN R package](https://github.com/atmoschem/vein)
 - 📫 How to reach me: sibarrae@umd.edu

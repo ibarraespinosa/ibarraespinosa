@@ -21,27 +21,27 @@
   <tbody>
     <tr>
       <td><strong>VEIN</strong></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/atmoschem/vein/master/man/figures/logo.png" width="80" alt="VEIN"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/atmoschem/vein/master/man/figures/logo.png" width="120" alt="VEIN"></td>
       <td><a href="https://github.com/atmoschem/vein">github.com/atmoschem/vein</a></td>
     </tr>
     <tr>
       <td><strong>eixport</strong></td>
-      <td align="center"><img src="https://atmoschem.github.io/eixport/reference/figures/logo.gif" width="80" alt="eixport"></td>
+      <td align="center"><img src="https://atmoschem.github.io/eixport/reference/figures/logo.gif" width="120" alt="eixport"></td>
       <td><a href="https://github.com/atmoschem/eixport">github.com/atmoschem/eixport</a></td>
     </tr>
     <tr>
       <td><strong>respeciate</strong></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/atmoschem/respeciate/main/man/figures/logo.png" width="80" alt="respeciate"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/atmoschem/respeciate/main/man/figures/logo.png" width="120" alt="respeciate"></td>
       <td><a href="https://github.com/atmoschem/respeciate">github.com/atmoschem/respeciate</a></td>
     </tr>
     <tr>
       <td><strong>rtorf</strong></td>
-      <td align="center"><img src="https://github.com/noaa-gml/rtorf/raw/main/man/figures/logo.png" width="80" alt="rtorf"></td>
+      <td align="center"><img src="https://github.com/noaa-gml/rtorf/raw/main/man/figures/logo.png" width=120" alt="rtorf"></td>
       <td><a href="https://github.com/noaa-gml/rtorf">github.com/noaa-gml/rtorf</a></td>
     </tr>
     <tr>
       <td><strong>FLAN</strong></td>
-      <td align="center"><img src="https://github.com/atmoschem/flan/raw/main/figs/logo2.png" width="80" alt="FLAN"></td>
+      <td align="center"><img src="https://github.com/atmoschem/flan/raw/main/figs/logo2.png" width="120" alt="FLAN"></td>
       <td><a href="https://github.com/atmoschem/flan">github.com/atmoschem/flan</a></td>
     </tr>
   </tbody>
